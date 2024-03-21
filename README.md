@@ -1,4 +1,4 @@
-# Quanta HD Drivers for Acer Laptops
+# Quanta HD Kernel Module for Acer Laptops
 
 linux 6.8 mainline kernel
 
@@ -20,6 +20,7 @@ sudo insmod ./uvcvideo.ko
 ```
 sudo make install
 ```
-## Credits
-[Kvalme](https://github.com/Kvalme/uvc.git)
-[Giuliano69](https://github.com/Giuliano69/uvc_driver-for-Quanta-HD-User-Facing-0x0408-0x4035-.git)
+## Sources Used
+- [Kvalme](https://github.com/Kvalme/uvc.git)
+- [Giuliano69](https://github.com/Giuliano69/uvc_driver-for-Quanta-HD-User-Facing-0x0408-0x4035-.git)
+- [Diman119](https://github.com/Diman119/acer-wmi-battery.git)
