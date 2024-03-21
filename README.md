@@ -16,6 +16,10 @@ sudo rmmod uvcvideo
 sudo insmod ./uvcvideo.ko
 ```
 
+**Install DKMS-Module**
+```
+sudo make install
+```
 ## Credits
 [Kvalme](https://github.com/Kvalme/uvc.git)
 [Giuliano69](https://github.com/Giuliano69/uvc_driver-for-Quanta-HD-User-Facing-0x0408-0x4035-.git)
